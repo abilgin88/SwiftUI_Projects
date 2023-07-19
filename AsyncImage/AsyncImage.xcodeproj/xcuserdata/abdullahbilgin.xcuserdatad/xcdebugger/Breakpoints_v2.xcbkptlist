@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "079B91CF-AE97-4DEF-96B7-4CEF573725A0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "220488A2-C8D4-47DD-BCFE-71487B7FE265"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AsyncImage/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "220488A2-C8D4-47DD-BCFE-71487B7FE265 - cf46a61549e0a823"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsyncImage.ContentView.body.getter : some"
+                  moduleName = "AsyncImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahbilgin/Documents/Mobile/SwiftUI_Projects/AsyncImage/AsyncImage/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "220488A2-C8D4-47DD-BCFE-71487B7FE265 - 80b6ff7eba97bd9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.Image) -&gt; &lt;&lt;opaque return type of SwiftUI.View.scaledToFit() -&gt; some&gt;&gt;.0 in AsyncImage.ContentView.body.getter : some"
+                  moduleName = "AsyncImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahbilgin/Documents/Mobile/SwiftUI_Projects/AsyncImage/AsyncImage/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "220488A2-C8D4-47DD-BCFE-71487B7FE265 - cf46a61549e0a823"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsyncImage.ContentView.body.getter : some"
+                  moduleName = "AsyncImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahbilgin/Documents/Mobile/SwiftUI_Projects/AsyncImage/AsyncImage/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
